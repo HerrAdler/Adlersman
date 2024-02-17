@@ -28,7 +28,7 @@ Config.enableAnnouncements = true;
  */
 Config.announceMessages = [
   "Enjoy your stay!",
-  "This loadingscreen is made by Exsite"
+  "Welcome to Syntax-Networks"
 ];
 
 /**
