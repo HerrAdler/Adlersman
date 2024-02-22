@@ -41,10 +41,7 @@ Config.announcementLength = 3000;
  * Image Filename
  * DROP IMAGE IN "images" FOLDER
  */
-Config.backgroundImage = [
-"streamm.jpg",
-"strikt.jpg"
-];
+Config.backgroundImage = "";
 
 /**
  * Enable debug messages?
