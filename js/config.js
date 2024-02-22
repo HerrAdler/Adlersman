@@ -28,7 +28,8 @@ Config.enableAnnouncements = true;
  */
 Config.announceMessages = [
   "Enjoy your stay!",
-  "Welcome to Syntax-Networks"
+  "Welcome to Syntax-Networks",
+  "What is the difference between a nautical mile and a knot?"
 ];
 
 /**
