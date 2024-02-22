@@ -42,8 +42,8 @@ Config.announcementLength = 3000;
  * DROP IMAGE IN "images" FOLDER
  */
 Config.backgroundImage = [
-"streamm",
-"strikt"
+"streamm.jpg",
+"strikt.jpg"
 ];
 
 /**
