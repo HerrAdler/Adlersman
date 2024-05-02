@@ -27,8 +27,9 @@ Config.enableAnnouncements = true;
  * only works if enableAnnouncements = true
  */
 Config.announceMessages = [
+  "Welcome to Horch-Networks",
   "Enjoy your stay!",
-  "Welcome to Syntax-Networks"
+  "Join our Discord to stay up to date!"
 ];
 
 /**
