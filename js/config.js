@@ -28,8 +28,7 @@ Config.enableAnnouncements = true;
  */
 Config.announceMessages = [
   "Welcome to Horch-Networks",
-  "Enjoy your stay!",
-  "Join our Discord to stay up to date!"
+  "Enjoy your stay!"
 ];
 
 /**
